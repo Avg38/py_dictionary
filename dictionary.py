@@ -1,4 +1,4 @@
-users = ['avg','juste_ozan','kévin']
+users = ['user1','user2','user3']
 password = 'abc'
 words = ['house','bed','chair','table','computer','pen','window','room','screen','rooftop','garden','garage','kitchen','bathroom','toilet']
 definitions = ['a building that people, usually one family, live in',
